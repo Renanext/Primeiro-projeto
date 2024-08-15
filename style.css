@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/4929008-arab-man-and-in-camel-in-wide-desert-sands-in-middle-east-going-to-city-in-kingdom-of-saudi-arabia-editable-vector-illustration-vetor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 3em; 
+    font-family: Arial, sans-serif;
+    background-image: url(https://img.freepik.com/fotos-premium/fundo-de-areia-do-deserto_90839-137.jpg);
+    background-size: cover;
+    color: transparent; 
+    background-clip: text; 
+  }
+  
+  h2 {
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 3em; 
+    font-family: Arial, sans-serif;
+  }  
+  
+  p {
+    text-align: justify;
+    font-size: 2em; 
+    font-family: Arial, sans-serif;
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+  
+  ul {
+    font-size: 2em; 
+    font-family: Arial, sans-serif;
+  }
+  
+  ol {
+    font-size: 2em; 
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  
+  iframe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
